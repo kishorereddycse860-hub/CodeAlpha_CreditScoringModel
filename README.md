@@ -84,4 +84,4 @@ B.Tech CSE (AI/ML) — Marwadi University
 
 ---
 
-*This project was completed as part of the CodeAlpha Machine Learning Internship.*
+*This project was completed as part of the CodeAlpha Machine Learning Internship.* 
